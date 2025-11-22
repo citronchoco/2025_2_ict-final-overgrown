@@ -30,7 +30,9 @@ ProjectName/
     └── moss/      (이끼 관련 이미지)
         └── moss_texture.png
 ```
-
+- **프로젝트 폴더명(-> ProjectName/)**: 2024_2_ICT_Final_Overgrown
+- 프로젝트 폴더명 로컬 환경에서도 통일해주세요
+- 파일은 알아서 추가되니 
 - index.html, style.css, sketch.js는 vscode에서 create p5.js project 하면 자동으로 생성됩니다.
 - **주의:** 파일명은 모두 **소문자 영문**으로 통일합니다. (띄어쓰기 금지, `stem_01.png` O, `Stem 1.png` X)
 
