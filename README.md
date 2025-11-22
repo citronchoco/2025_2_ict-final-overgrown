@@ -10,7 +10,7 @@
 - VS Code (Visual Studio Code)
 - 필수 확장프로그램: Live Server (Ritwick Dey 제작)
 
-**2. 폴더 구조 (Directory Structure)**
+**2. 폴더 구조**
 
 각자 컴퓨터의 폴더 구조가 다르면 이미지를 못 불러옵니다. 아래 구조를 똑같이 맞춰주세요.
 
