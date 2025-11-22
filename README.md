@@ -19,7 +19,7 @@ ProjectName/
 ├── index.html
 ├── style.css
 ├── sketch.js      (메인 코드)
-├── classes/       (클래스 파일들 - 나중에 합칠 때 편함)
+├── classes/       (클래스를 모아 둔 폴더 - 나중에 합칠 때 편함)
 │   ├── Plant.js
 │   ├── Moss.js
 │   └── Light.js
