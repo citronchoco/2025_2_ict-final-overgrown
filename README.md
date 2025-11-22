@@ -1,4 +1,4 @@
-# light-shadow-garden
+# 2025_2_ict-final-overgrown
 정문기입 기말 프로젝트 git 저장소
 
 ### 개발 환경 및 협업 규칙
@@ -8,7 +8,7 @@
 **1. 코드 편집기 (IDE) 통일** - 설치와 초기 설정 방법은 정문기입 수업 초반 자료에 있습니다.
 
 - VS Code (Visual Studio Code)
-- 필수 확장프로그램: Live Server (Ritwick Dey 제작)
+- 필수 확장프로그램: Live Server
 
 **2. 폴더 구조**
 
@@ -30,9 +30,9 @@ ProjectName/
     └── moss/      (이끼 관련 이미지)
         └── moss_texture.png
 ```
-- **프로젝트 폴더명(-> ProjectName/)**: 2024_2_ICT_Final_Overgrown
-- 프로젝트 폴더명 로컬 환경에서도 통일해주세요
-- 파일은 알아서 추가되니 
+- **프로젝트 폴더명(-> ProjectName/)**: 2025_2_ict-final-overgrown
+- 프로젝트 폴더명 로컬 환경에서도 **통일**해주세요 (소문자, 언더바, 하이픈 구분)
+- 로컬 환경에서 폴더만 만들면 됩니다 (**대소문자 구분 중요**). 파일은 나중에 병합하면 깃이 알아서 로컬 환경에도 추가해줍니다. 폴더도 알아서 추가되긴 하는데 제가 폴더를 만들어봤자 빈 폴더가 깃에 반영이 안 돼서 로컬 환경에서 각자 만들어주셔야 합니다.
 - index.html, style.css, sketch.js는 vscode에서 create p5.js project 하면 자동으로 생성됩니다.
 - **주의:** 파일명은 모두 **소문자 영문**으로 통일합니다. (띄어쓰기 금지, `stem_01.png` O, `Stem 1.png` X)
 
