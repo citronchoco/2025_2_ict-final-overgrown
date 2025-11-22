@@ -56,3 +56,6 @@ function preload() {
    img = loadImage('assets/plant/stem_01.png'); 
 }
 ```
+
+### 변수명 정리
+
